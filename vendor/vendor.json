@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "I5VSikqSwZekq22j+0X8VdUC4ws=",
+			"path": "github.com/d2r2/go-dht",
+			"revision": "55dd8f99e70f28e7fbeb81874b0932aef6cf21dc",
+			"revisionTime": "2018-06-22T05:04:51Z"
+		},
+		{
+			"checksumSHA1": "dOcnxl2XCEMu3OYwahDNnodji9A=",
+			"path": "github.com/d2r2/go-logger",
+			"revision": "abcd884137e683ecd728ec6e14e9157358844c90",
+			"revisionTime": "2018-07-07T04:28:50Z"
+		},
+		{
+			"checksumSHA1": "yQeFIkSjjDcw2MtJjVZXz3or6FA=",
+			"path": "github.com/d2r2/go-shell",
+			"revision": "2428040bef3591f20c30d5b3b00ff49b68f66dc7",
+			"revisionTime": "2018-04-30T11:02:17Z"
+		},
+		{
+			"checksumSHA1": "aENNVxKxF9h9PfvTIstiAS5I3Lg=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+			"revisionTime": "2018-02-21T22:46:20Z"
+		},
+		{
+			"checksumSHA1": "KZFdceS/v+tKZRDE5dLzbJiewy4=",
+			"path": "github.com/stianeikeland/go-rpio",
+			"revision": "3abdd2207d33843c1c3fbea540bdf07990075c03",
+			"revisionTime": "2018-06-06T22:43:49Z"
+		}
+	],
+	"rootPath": "github.com/dsimmer/goPiTempMonitor"
+}
