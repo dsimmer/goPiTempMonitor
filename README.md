@@ -1,4 +1,4 @@
 # goPiTempMonitor
 
 to build for pi:
-env GOOS=linux GOARCH=arm GOARM=5 go build
+CC=arm-linux-gnueabi-gcc CGO_ENABLED=1  env GOOS=linux GOARCH=arm GOARM=5 go build
